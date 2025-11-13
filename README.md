@@ -1,4 +1,6 @@
-# RUST
+# Introdução à linguagem de programação Rust
+
+ Exercícios desenvolvidos durante meu processo de aprendizado da linguagem Rust.
 
 ```
 ├── @hello-cargo
