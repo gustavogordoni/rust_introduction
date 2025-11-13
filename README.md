@@ -5,9 +5,8 @@
 ```
 ├── @hello-cargo
 │   ├── Cargo.toml
-│   ├── src
-│   │   └── main.rs
-│   └── target
+│   └── src
+│       └── main.rs    
 ├── @hello-rust
 │   └── main.rs
 ├── a_tiposDados
